@@ -12,7 +12,7 @@ on:
     branches:
       - main
       - develop
-      -	feature-branch
+      - feature-branch
 
 # Jobs that will run
 jobs:
